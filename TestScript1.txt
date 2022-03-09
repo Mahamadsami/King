@@ -1,7 +1,11 @@
 public class TestScript1{
 	
 @Test
-public void Test(){
-	System.out.printlnl("test method");
+public void Test1(){
+	System.out.printlnl("test method 1 -Register");
+}
+@Test
+public void Test2(){
+	System.out.printlnl("test method 2 -Login");
 }
 }
