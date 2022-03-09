@@ -1,0 +1,7 @@
+public class TestScript2{
+	
+@Test
+public void Test(){
+	System.out.printlnl("test method");
+}
+}
